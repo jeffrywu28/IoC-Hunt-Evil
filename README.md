@@ -1,2 +1,2 @@
 # IoC-Hunt-Evil
-These are validated Indicators of Compromise (IOCs) compiled to help detect the latest threats associated with newly disclosed CVEs, intelligence articles, and reputable sources such as Twitter. 
+These are validated Indicators of Compromise (IOCs) compiled to help detect the latest threats associated with newly disclosed CVEs, intelligence articles, and reputable sources such as Twitter. Each IOC has been reviewed for accuracy and relevance, ensuring that detection rules remain up to date with emerging cyber threats. Regularly updating and leveraging these IOCs enables faster response to evolving attacks and enhances overall security monitoring.
